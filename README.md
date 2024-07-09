@@ -1,12 +1,15 @@
 # Dry-Bean-Classification-using-Machine-Learning-Project
 
 **Introduction:**
+
 Dry beans are a staple food worldwide, and accurate classification of bean types is crucial for quality control and market assessment in agriculture and food processing industries. Machine learning offers robust methods to classify dry beans based on various physical attributes. This project aims to leverage machine learning techniques to classify different types of dry beans accurately using features extracted from images or measurements of bean characteristics.
 
 **Problem Statement:**
+
 The objective of this project is to develop a machine learning model that can classify different types of dry beans based on physical attributes such as size, shape, color, and texture. The model will use a dataset containing features derived from images or measurements of beans, including area, perimeter, length, width, and various shape factors. 
 
 **Dataset:**
+
 The dataset used for this Project has 13,611 records and has the following features:
 
 •	Area (A): The area of a bean zone and the number of pixels within its boundaries.
