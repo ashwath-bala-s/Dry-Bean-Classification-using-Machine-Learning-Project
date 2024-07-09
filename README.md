@@ -1,4 +1,4 @@
-# Dry-Bean-Classification-using-Machine-Learning-Project
+# Dry Bean Classification using Machine Learning Project
 
 **Introduction:**
 
